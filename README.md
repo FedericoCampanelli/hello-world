@@ -1,2 +1,3 @@
 # hello-world
-This is a place where I store ideas, resources, or even share and discuss things with others.
+Ciao!
+Sto facendo una prova.
